@@ -32,4 +32,8 @@ Data_observations_focal.xlsx: this file contains the behaviours of the introduce
 - total_visible: the cumulative duration during whichthe individual was visible (= total duration - out_of_view)
 
 Behaviors_scans.xlsx: this file contains the behaviours of the individuals of the receiving nest. 
-
+- nest_ID: each introduction assay used a different nest as the accepting nest
+- treatment: the origin of the introduced individual
+- observation: each accepting nest was observed twice
+- larvae_total, females_total: total number of behaviours observed for the respective developmental stage
+- other columns: the number of the respective behaviour observed 
