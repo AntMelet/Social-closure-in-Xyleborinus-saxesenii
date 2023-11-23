@@ -23,4 +23,14 @@ Condition_after_24h.xlsx: this file contains the data about the condition of the
 - dispersal: the in/ out of the nest component of hte ocndition
 - species: the species of hte introduced individual
 
-Data_obsrvations_focal.xlsx: 
+Data_observations_focal.xlsx: this file contains the behaviours of the introduced individuals. The data were collected during 30 min after the introduction.
+- nest_ID: each introduction assay used a different nest as the accepting nest
+- treatment: the origin of the introduced individual
+- date_nest: the date at which the accepting nest started
+- date_observation: the date at which the observation was conducted
+- age: the difference between the date o hte observation and the starting date of hte nest, in days
+- total: the total duration of hte observation, in seconds
+- out_of_view, R, W, D, F, C, S, G, Cop, Can: the cumulative duration of the respective behaviours, in seconds
+- total_visible: the cumulative duration during whichthe individual was visible (= total duration - out_of_view)
+
+
