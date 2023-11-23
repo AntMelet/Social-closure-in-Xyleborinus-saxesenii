@@ -1,7 +1,7 @@
 # Social-closure-in-Xyleborinus-saxesenii
 
-Abstract
+Description: in this study we investigated the differences in chemical profiles between two populations of X. saxesenii. We also conducted introduction assays to investigate the possibility of behavioural reaction from the native individuals to the presence of a foreign beetle in the nest
 
-Animal societies have nestmate-recognition to protect against social cheaters. The individuals recognize and exclude any non-nestmate. In social insects, the role of cuticular hydrocarbons as recognition cues is well documented. Some ambrosia beetles live in cooperatively breeding societies, within nests that are almost completely isolated. Their fungus-farming and sib-mating habits within their nest ensure a nearly complete isolation. However, little is known about social closure in ambrosia beetles.
+In this repository, you will find the data collected. The files are organised in two folder:
 
-We studied the social closure in Xyleborus saxesenii, combining behavioural observations and cuticular hydrocarbons analysis. Laboratory nests of X. saxesenii were exposed to foreign adult females, from the same population, another population and another species and survival as well as behaviours of receivers and the donor individual were observed. We expected that increasing genetic distance would cause increasing distance in chemical profiles and increasing levels of behavioural exclusion and possibly mortality. Chemical profiles were different between nests and appeared as variable as in other highly social insects. However, we did not find any evidence for behavioural exclusion of foreign individuals. These results suggest that cuticular hydrocarbon profiles might be used for communication, but that kin recognition is absent in X. saxesenii and probably other species in the inbred ambrosia beetle tribe Xyleborini.
+1. Chemical analysis: This folder contains
