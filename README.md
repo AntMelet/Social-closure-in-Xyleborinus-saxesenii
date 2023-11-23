@@ -6,7 +6,7 @@ In this repository, you will find the data collected. The files are organised in
 
 1. Chemical analysis: This folder contains the data related to the analysis of the chemical profiles of the beetles. 
 
-Chemical analysis: this file contains the relative abundances of the compounds identified in the profiles of X. saxesenii.
+Chemical analysis.xlsx: this file contains the relative abundances of the compounds identified in the profiles of X. saxesenii.
 
 - population: we investigated two populations of X. saxesenii, one from the Steinbachtal forest in Wurzburg, Germany (SBT) and the second from a national park in Bavaria, Germany (BW)
 - sample: each population was replicated 5 times
@@ -14,7 +14,7 @@ Chemical analysis: this file contains the relative abundances of the compounds i
 
 2. Behavioural analysis: This folder contains the data related to the behaviour of the beetles. The data are organised in three files
 
-Condition_after_24h: this files contains the data about the condition of the introduced beetles 24h after introduction. Introduced beetles were observed alive or dead, in or out of the nest they have been introduced in. Some beetles were not observed and recorded as such.
+Condition_after_24h.xlsx: this file contains the data about the condition of the introduced beetles 24h after introduction. Introduced beetles were observed alive or dead, in or out of the nest they have been introduced in. Some beetles were not observed and recorded as such.
 
 - treatment: the origin of the introduced individual
 - condition: the condition we observed the introduced individual
@@ -23,3 +23,4 @@ Condition_after_24h: this files contains the data about the condition of the int
 - dispersal: the in/ out of the nest component of hte ocndition
 - species: the species of hte introduced individual
 
+Data_obsrvations_focal.xlsx: 
